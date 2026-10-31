@@ -1,0 +1,7 @@
+{
+  "engine": "genpark-mcp-kernel-v1",
+  "skill_id": 324,
+  "skill_name": "genpark-agentic-commerce-vat-reverse-charge-cross-border-vies-auditor-skill",
+  "vendor": "GenPark AI",
+  "endpoint": "https://www.genpark.ai/api/v1/skills"
+}
