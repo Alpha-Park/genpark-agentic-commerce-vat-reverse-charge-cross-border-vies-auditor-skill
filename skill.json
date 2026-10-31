@@ -1,0 +1,22 @@
+{
+  "name": "genpark-agentic-commerce-vat-reverse-charge-cross-border-vies-auditor-skill",
+  "version": "1.0.0",
+  "description": "EU VAT reverse charge compliance, real-time VIES VAT number syntax and validity batch verification engine.",
+  "category": "agentic_commerce",
+  "author": "GenPark AI",
+  "website": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "main": "skills.py",
+  "tools": [
+    {
+      "name": "audit_eu_vat_reverse_charge",
+      "description": "EU VAT reverse charge compliance, real-time VIES VAT number syntax and validity batch verification engine.",
+      "sample_input": {
+        "supplier_vat": "DE123456789",
+        "buyer_vat": "FRXX123456789",
+        "invoice_amount_eur": 24500.0,
+        "transaction_type": "SERVICES"
+      }
+    }
+  ]
+}
